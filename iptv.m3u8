@@ -1,4 +1,4 @@
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8 (the original first link that was added here that started it all!)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://89.105.221.127/Disney/mpegts?token=test
 https://tvpass.org/live/Boomerang/sd
@@ -64,7 +64,7 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8
 https://list.iptvcat.com/my_list/s/ed1e1317829227c883c5de3f9979416b.m3u8
 https://tvpass.org/live/NickJrEast/sd
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-http://109.233.89.173/TeenNick/index.m3u8?checkedby:iptvcat.com
+http://109.233.89.173/TeenNick/index.m3u8?checkedby:iptvcat.com (Might be Geo-Blocked, but not 100% sure)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8 (Submitted)
 https://tvpass.org/live/TeenNickEast/sd
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8 (Submitted)
@@ -89,7 +89,7 @@ http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-94.playl
 https://jmp2.uk/plu-5dcde07af1c85b0009b18651.m3u8
 http://69.64.57.208/atv/playlist.m3u8
 http://89.105.221.127/TNT/mpegts?token=test
-http://89.105.221.127/nfl/mpegts?token=test
+http://89.105.221.127/nfl/mpegts?token=test (the “nfl” part in the url cannot be uppercase letters, otherwise it won’t work)
 https://cdn-3.pishow.tv/live/1629/master.m3u8
 http://c3921155.edmonst.net/iptv/42L7TCH8YYKLBRHNPV52HBRN/7297/index.m3u8
 https://cdn-3.pishow.tv/live/1433/master.m3u8
@@ -117,11 +117,74 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 https://cdn-ssai.smartbit.co/rpp/index.m3u8
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 https://tvpass.org/live/metv-toons/sd
-http://89.105.221.127/MeTV/mpegts?token=test
+http://89.105.221.127/MeTV/mpegts?token=test (please make sure that “TV “ is uppercased.)
 http://138.121.15.230:9001/CARTOON-NETWORK/index.m3u8
 http://89.105.221.127/CartoonNetwork/mpegts?token=test
 https://gentvpeer.desdeparaguay.net/gentvpeer/gentv_py_alta/master.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8
-https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8 (Note: Geo-blocked, but it works for the owner. It works in the US.)
 https://tvpass.org/live/HallmarkDrama/hd
+https://tvpass.org/live/fanduel-sports-network-west/sd
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+http://89.187.178.197:1970/ABCLasVegas/index.m3u8
+http://89.187.178.197:1970/ABCNewYork/index.m3u8
+http://89.187.178.197:1970/ABCJacksonville/index.m3u8
+http://89.187.178.197:1970/ABCIndianapolis/index.m3u8
+http://89.187.178.197:1970/ABCMiami/index.m3u8
+http://89.187.178.197:1970/ABCDetroit/index.m3u8
+http://89.187.178.197:1970/ABCDallas/index.m3u8
+http://89.187.178.197:1970/ABCLosAngeles/index.m3u8
+http://89.187.178.197:1970/ABCDenver/index.m3u8
+http://89.187.178.197:1970/ABCAtlanta/index.m3u8
+http://89.187.178.197:1970/ABCCleveland/index.m3u8
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/playlist/rakutenAA-lightning-now70s-rakuten/playlist.m3u8
+https://rakutenaa-lightning-now80s-rakuten-mkrxt.amagi.tv/playlist/rakutenAA-lightning-now80s-rakuten/playlist.m3u8
+https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/playlist/rakutenAA-lightning-now90s-rakuten/playlist.m3u8
+https://dash4.antik.sk/live/mb_classic/index.m3u8
+http://89.105.221.127/FX/mpegts?token=test
+http://89.105.221.127/FXX/mpegts?token=test
+http://89.105.221.127/CartoonNetwork/mpegts?token=test
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
+http://s.rocketdns.info:8080/live/alpha413/S3n09wdSRd/390407.m3u8
+https://tvpass.org/live/HistoryEast/sd
+http://138.121.15.230:9001/CARTOON-NETWORK/index.m3u8
+https://tvpass.org/live/DisneyChannelEast/sd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+https://stream.ads.ottera.tv/cl/260427d7nsaqs330korr63r1hg/1280x720_3344000_0_f.m3u8?i=475_584
+http://fl51.moveonjoy.com/BET/index.m3u8
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8?takodachi
+https://tvpass.org/live/sportsnet-west/sd
+https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+https://tvpass.org/live/WABCDT1/sd
+http://41.205.93.154/ABC/index.m3u8
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&masterJWTPassthrough=1&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjU2YzY5YTE3LTRhNGUtNDViMC05MTIwLTM3ODViYjZlODU0ZiIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzc4NDU1NjQ4LCJpYXQiOjE3NzgzNjkyNDgsImp0aSI6IjcxNGVmZGJiLWZhMzQtNGFjNi1iYjhmLWU5OWRmMjQ2NzFiNiJ9.FLS1dUvcm9yHsk6n-iIdTcXanXYknFAhaFh0jYwB0uQ
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+https://fxtvhls.wns.live/hls/stream.m3u8
+https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+https://vs20.live.opencaster.com/foxboxweb_53bd9199/index.m3u8
+http://tmptv.sunduk.tv/CH3229/index.m3u8
+http://tmptv.sunduk.tv/CH3273/index.m3u8
+http://tmptv.sunduk.tv/CH3233/index.m3u8
+http://tmptv.sunduk.tv/CH3255/index.m3u8
+http://tmptv.sunduk.tv/CH3225/index.m3u8
+http://tmptv.sunduk.tv/CH3227/index.m3u8
+http://tmptv.sunduk.tv/CH3223/index.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+https://play.redbull.com/streams/v1/rbtv/Padel/ts/video/1280x720.m3u8
+https://play.redbull.com/streams/v1/rbtv/bike/ts/video/1280x720.m3u8
+https://play.redbull.com/streams/v1/rbtv/adventure/ts/video/1280x720.m3u8
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=7&bind=0&uin=201829&playseek=0&timestamp=1732800403&sign=00094da800a4c73f525b96c99c59e7c717281bab2c18980dea0df8e37f1b3ac2
